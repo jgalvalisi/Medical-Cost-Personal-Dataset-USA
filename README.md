@@ -10,7 +10,7 @@ To find which variables have the highest implication when establishing medical c
 
 The dataset is in the public domain and explains the cost of a small sample of USA population Medical Cost Personal based on different attributes.
 
-The open source is available [here]https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download).
+The open source is available [here](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download).
 
 ## Used Tools
 
